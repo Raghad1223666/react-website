@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 13,
+      "title": "Raghad and Rayan",
+      "description": "Raghad and Rayan description",
+      "userName": "Raghad Moeed Abu Baker"
+    },
+    {
+      "id": 450,
+      "title": "Raghad 1",
+      "description": "Raghad Abu Baker description 1",
+      "userName": "Raghad Moeed Abu Baker"
+    },
+    {
+      "id": 4110,
+      "title": "NEw post",
+      "description": "new post details",
+      "userName": "Raghad Moeed Abu Baker"
+    }
+  ]
+}
